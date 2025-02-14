@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+<h2 align="left">Tech Stack🔥</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
