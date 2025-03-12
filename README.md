@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Vishal! 👋<br>🚀 Android Developer | Kotlin Enthusiast | Firebase Explorer<br><br>💡 Turning ideas into seamless mobile experiences.<br>📱 Building intuitive, scalable, and user-friendly Android apps.<br>🔥 Passionate about UI/UX, animations, and performance optimization.<br><br>💼 What I Do:<br>🏗 Develop Android Apps (Kotlin | Jetpack Compose | XML)<br>☁ Integrate Firebase (Firestore, Authentication, Storage)<br>🎨 Enhance UI/UX (Animations, RecyclerViews, Navigation)<br>🌍 Work with APIs (RESTful Services, Google Maps, Payment Gateways)<br>📌 Current Focus:<br>⚡ Optimizing app performance & threading<br>🎮 Adding gamification & interactive experiences<br>🔍 Exploring AI & ML integration in Android<br></h2>
+<h2 align="left">Hi, I'm Vishal! </h2>
 
 ###
 
